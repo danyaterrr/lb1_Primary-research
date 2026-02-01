@@ -2,9 +2,9 @@
 на датасете UCI Bike Sharing (hour.csv).
 
 ## Структура
-- notebooks/01_data_understanding.ipynb — анализ
-- report/quality_report.md — отчет
-- data/download_data.py — скачивание данных
+- notebooks/01_data_understanding.ipynb - анализ
+- report/quality_report.md - отчет
+- data/download_data.py - скачивание данных
 
 ## Запуск
 pip install -r requirements.txt
