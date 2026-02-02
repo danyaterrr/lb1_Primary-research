@@ -22,7 +22,7 @@
 | mnth | category/int | месяц (1-12) |
 | weekday | category/int | день недели (0-6) |
 | workingday | category/bool | рабочий день (0/1) |
-| holiday | category/bool | праздник (0/1) |
+| holiday | category/bool | праздник (0/1) 
 | weathersit | category | тип погоды (код) |
 | temp | float | нормированная температура |
 | atemp | float | нормированная "ощущаемая" температура |
